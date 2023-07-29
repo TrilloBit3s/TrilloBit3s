@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola! Eu sou o Michael 👋
 
 <!--
 **TrilloBit3s/TrilloBit3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,9 +8,6 @@ Here are some ideas to get you started:
 - 🔭 Hoje trabalho com Desenvolvimento de Jogos, Web e Robótica.
 - 🌱 Estudando HTML/CSS/JavaScript/C/C#
 - ⚡ Ocarina of time sempre será o melhor Game -->
-
-### Ola! Eu sou o Michael
-
 
 
 <div align="left"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
@@ -29,10 +26,8 @@ Here are some ideas to get you started:
   ##
   
   <div>
-    <a href ="https://www.youtube.com/@trillobit3sGames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        <a href ="https://www.youtube.com/@trillobit3sGames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 	<a href ="https://instagram.com/trillobit3s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href ="mailto:contato.trillobit3s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
-<!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->	
-
+	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>       	  
   </div>
