@@ -15,12 +15,11 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trillobit3s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trillobit3s&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Unity" height="30" width="40" src="https://visualpharm.com/assets/391/Unity-595b40b85ba036ed117db6b5.svg">
-	  
+  <div style="display: inline_block"><br>  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Unity" height="30" width="40" src="https://visualpharm.com/assets/391/Unity-595b40b85ba036ed117db6b5.svg">	
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://visualpharm.com/assets/698/C%20Sharp%20Logo-595b40b65ba036ed117d3edd.svg">
 </div>
