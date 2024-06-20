@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <img align="center" alt="C#" height="30" width="40" src="https://visualpharm.com/assets/698/C%20Sharp%20Logo-595b40b65ba036ed117d3edd.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
    
 </div>
   
