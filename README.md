@@ -32,8 +32,6 @@ Here are some ideas to get you started:
   
   <div>
         <a href ="https://www.youtube.com/@trillobit3sIndieGames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
-   https://www.youtube.com/@trillobit3sIndieGames
 	<a href ="https://instagram.com/trillobit3s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<!--<a href ="mailto:contato.trillobit3s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>       	  
