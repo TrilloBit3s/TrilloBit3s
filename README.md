@@ -1,38 +1,47 @@
 ### Michael M.Sabino
 
-<!--
-**TrilloBit3s/TrilloBit3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Hi 👋! My name is Michael Moraes Sabino and I'm a Game Developer, from Brazil</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 Hoje trabalho com Desenvolvimento de Jogos, Web e Robótica.
-- 🌱 Estudando HTML/CSS/JavaScript/C/C#
-- ⚡ Ocarina of time sempre será o melhor -->
-
-
-<div align="left"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
-  <a href="https://github.com/TrilloBit3s">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trillobit3s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trillobit3s&layout=compact&langs_count=7&theme=dracula"/>
+<div align="left">
+  <a href="https://www.youtube.com/@trillobit3sIndieGames" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/trillobit3s/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="trillobit3s@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
-  <div style="display: inline_block"><br>  
-  <!--
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  -->	  
-  <img align="center" alt="Unity" height="30" width="40" src="https://visualpharm.com/assets/391/Unity-595b40b85ba036ed117db6b5.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://visualpharm.com/assets/698/C%20Sharp%20Logo-595b40b65ba036ed117d3edd.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg">
-   
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353488/blender.svg" height="30" alt="blender logo" />
+  <img width="12" />
 </div>
-  
-  ##
-  
-  <div>
-        <a href ="https://www.youtube.com/@trillobit3sIndieGames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-	<a href ="https://instagram.com/trillobit3s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<!--<a href ="mailto:contato.trillobit3s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
-	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>       	  
-  </div>
+
+###
+
+<div align="center">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trillobit3s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trillobit3s&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79748858?v=4"  />
+
+###
+
+<p align="left">Currently working on developing a Third-Person game. <br><br> I am currently teaching at both the high school and university levels. <br><br> I am working on some systems, learning a lot about things I always found complex to understand, but we need to evolve.</p>
+
+###
