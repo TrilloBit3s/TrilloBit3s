@@ -42,6 +42,6 @@
 
 ###
 
-<p align="left">Currently working on developing a Third-Person game. <br><br> I am currently teaching at both the high school and university levels. <br><br> I am working on some systems, learning a lot about things I always found complex to understand, but we need to evolve.</p>
+<p align="left">Currently working on developing a Third-Person game. <br><br> I work as a teacher at both the high school and university levels. <br><br> I am working on some systems, learning a lot about things I always found complex to understand, but we need to evolve.</p>
 
 ###
