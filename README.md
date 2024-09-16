@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353488/blender.svg" height="30" alt="blender logo" />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/373441/arduino.svg" height="30" alt="arduino logo" />
+  <img width="12" />
 </div>
 
 ###
