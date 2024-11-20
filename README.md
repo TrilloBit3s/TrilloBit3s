@@ -46,10 +46,10 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79748858?v=4"  />
+<!--<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79748858?v=4"  />-->
 
 ###
-
+<!--
 <p align="left">Currently working on developing a Third-Person game. <br><br> I work as a teacher at both the high school and university levels. <br><br> I am working on some systems, learning a lot about things I always found complex to understand, but we need to evolve.</p>
-
+-->
 ###
