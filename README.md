@@ -40,16 +40,16 @@
 ###
 
 <div align="center">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trillobit3s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trillobit3s&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trillobit3s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=trillobit3s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<p align="left">Currently Working on the Development of my Third-person Game. <br> If you're lost, imagine me.</p>
 
 ###
 
 <!--<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79748858?v=4"  />-->
 
-###
-<!--
-<p align="left">Currently working on developing a Third-Person game. <br><br> I work as a teacher at both the high school and university levels. <br><br> I am working on some systems, learning a lot about things I always found complex to understand, but we need to evolve.</p>
--->
 ###
