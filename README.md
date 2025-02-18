@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Currently Working on the Development of my Third-person Game. <br> If you're lost, imagine me.</p>
+<p align="left"><!--Currently Working on the Development of my Third-person Game.--> <br> If you're lost, imagine me.</p>
 
 ###
 
