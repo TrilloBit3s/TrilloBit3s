@@ -1,5 +1,3 @@
-### Michael M.Sabino
-
 <h2 align="left">Hi! My name is Michael Moraes Sabino and I'm a Game Developer, from Brazil</h2>
 
 <!-- Imagem alinhada à direita -->
