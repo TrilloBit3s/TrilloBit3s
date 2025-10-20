@@ -51,12 +51,3 @@
 <!--<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79748858?v=4"  />-->
 
 ###
-
-<p align="left"><!--Currently Working on the Development of my Third-person Game.--> <br> If you're lost, imagine me.</p>
-
-###
-
-
-<!--<img align="right" height="150" src="https://avatars.githubusercontent.com/u/79748858?v=4"  />-->
-
-###
