@@ -42,10 +42,17 @@
 
 ###
 
-<div align="center" style="display: inline-flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trillobit3s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=trillobit3s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trillobit3s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=trillobit3s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+    </td>
+  </tr>
+</table>
+
 
 ###
 
