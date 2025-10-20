@@ -1,16 +1,18 @@
+### Michael M.Sabino
+
 <h2 align="left">Hi! My name is Michael Moraes Sabino and I'm a Game Developer, from Brazil</h2>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<!-- Container flex com os 3 itens lado a lado -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
   
-  <!-- Coluna da esquerda (gráficos GitHub) -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trillobit3s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-    <br>
-    <img src="https://streak-stats.demolab.com?user=trillobit3s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  </div>
-
-  <!-- Coluna da direita (sua imagem) -->
-  <img src="https://github.com/user-attachments/assets/24e094d6-f11c-44ad-bcc8-52ff5fe84c03" height="300" alt="Michael M. Sabino" style="border-radius:15px; box-shadow:0px 4px 10px rgba(0,0,0,0.4);" />
+  <!-- 1️⃣ GitHub Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trillobit3s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph" />
+  
+  <!-- 2️⃣ GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=trillobit3s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
+  
+  <!-- 3️⃣ Sua Imagem -->
+  <img src="https://github.com/user-attachments/assets/24e094d6-f11c-44ad-bcc8-52ff5fe84c03" height="220" alt="Michael M. Sabino" style="border-radius:15px; box-shadow:0px 4px 10px rgba(0,0,0,0.4);" />
 
 </div>
 
@@ -54,6 +56,7 @@
 <p align="left"><!--Currently Working on the Development of my Third-person Game.--> <br> If you're lost, imagine me.</p>
 
 ###
+
 
 
 <p align="left"><!--Currently Working on the Development of my Third-person Game.--> <br> If you're lost, imagine me.</p>
