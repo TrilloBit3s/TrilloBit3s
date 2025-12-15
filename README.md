@@ -46,13 +46,14 @@
       <img src="https://streak-stats.demolab.com?user=trillobit3s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
     </td>
     <td align="center">
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79748858/503204575-24e094d6-f11c-44ad-bcc8-52ff5fe84c03.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T124540Z&X-Amz-Expires=300&X-Amz-Signature=f91cbd5490a00ceefcd46af0692df2ca45a58d681af868eb39639aa982da48b7&X-Amz-SignedHeaders=host" height="150" alt="character image" />
+    <img src="https://raw.githubusercontent.com/TrilloBit3s/TrilloBit3s/main/assets/character.png"
+        height="150"
+        alt="character image" />
     </td>
-  </tr>
+</tr>
 </table>
 
 ###
-
 <p align="left">
   <!--Currently Working on the Development of my Third-person Game.--> <br>
   If you're lost, imagine me.
