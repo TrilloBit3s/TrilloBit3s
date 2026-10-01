@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/373441/arduino.svg" height="30" alt="arduino logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/366177/gimp.svg" height="30" alt="gimp logo" />
+  <img src="https://www.svgrepo.com/svg/473618/gimp" height="30" alt="gimp logo" />
 </div>
 
 ###
