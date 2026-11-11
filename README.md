@@ -16,23 +16,32 @@
 
 ###
 
+
 <div align="left"> 
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" height="30" alt="c logo" />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="30" alt="visualstudiocode logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="visual studio code logo" />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/353488/blender.svg" height="30" alt="blender logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/373441/arduino.svg" height="30" alt="arduino logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
   <img width="12" />
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/The_GIMP_icon_-_v3.0.svg" height="30" alt="gimp logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo" />
 </div>
+
 
 ###
 
